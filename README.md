@@ -1,2 +1,2 @@
-# webscraper
+# Web Scraper
 Automatizando uma tarefa simples de localizar veículos através de um Web Site.
